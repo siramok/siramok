@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**siramok/siramok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Andres Sewell, a PhD student at Utah State University specializing in High-Performance Computing (HPC). My research focuses on in situ visualization with [Ascent](https://ascent.readthedocs.io/en/latest/) and simulation steering.
 
-Here are some ideas to get you started:
+## 🔬 Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **In Situ Visualization:** Developing techniques to visualize data during simulations to gain real-time insights.
+- **Simulation Steering:** Implementing methods to interactively adjust simulation state based on visualization feedback.
+- **High-Performance Computing:** Leveraging HPC architectures to enhance computational efficiency and scalability.
+
+## 🏢 Professional Experience
+
+- **Argonne National Laboratory** (Summer Intern, 2023 & 2024)
+  - Collaborated on HPC projects, contributing to advancements in simulation and visualization techniques.
