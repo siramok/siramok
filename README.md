@@ -5,10 +5,15 @@ I'm Andres Sewell, a PhD student at Utah State University specializing in High-P
 ## 🔬 Research Interests
 
 - **In Situ Visualization:** Developing techniques to visualize data during simulations to gain real-time insights.
-- **Simulation Steering:** Implementing methods to interactively adjust simulation state based on visualization feedback.
+- **Simulation Steering:** Implementing methods to interactively adjust simulation states based on visualization feedback.
 - **High-Performance Computing:** Leveraging HPC architectures to enhance computational efficiency and scalability.
 
 ## 🏢 Professional Experience
 
 - **Argonne National Laboratory** (Summer Intern, 2023 & 2024)
   - Collaborated on HPC projects, contributing to advancements in simulation and visualization techniques.
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/andres-sewell)
+- [Email](a02024444@usu.edu)
