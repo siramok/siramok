@@ -13,10 +13,11 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=zjkO4usA
 
 1. Scalable Training and Rendering of 3D Gaussians for Large-Scale Scientific Data. HPG '26. First author.
 2. Volume Encoding Gaussians: Transfer Function-Agnostic 3D Gaussians for Volume Rendering. TVCG '26.
-3. Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization. eScience '25.
+3. Distributed 3D Gaussian Splatting for High-Resolution Isosurface Visualization. e-Science '25.
 4. Free Lunch in In Situ Visualization: Leveraging Idle CPU Resources to Mitigate GPU Contention. LDAV '25. Co-first author.
-5. Bridging Gaps in Simulation Analysis through a General Purpose, Bidirectional Steering Interface with Ascent. ISAV '24. Best Paper Award. First author.
-6. Bruck Algorithm Performance Analysis for Multi-GPU All-to-All Communication. HPCAsia '24. First author.
+5. Intuitive Computational Steering Using Ascent and Trame. e-Science '25.
+6. Bridging Gaps in Simulation Analysis through a General Purpose, Bidirectional Steering Interface with Ascent. ISAV '24. Best Paper Award. First author.
+7. Bruck Algorithm Performance Analysis for Multi-GPU All-to-All Communication. HPCAsia '24. First author.
 
 ## Open Source
 
