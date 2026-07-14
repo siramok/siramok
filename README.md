@@ -20,8 +20,8 @@ Full list on [Google Scholar](https://scholar.google.com/citations?user=zjkO4usA
 
 ## Open Source
 
-- [Ascent](https://github.com/Alpine-DAV/ascent): contributed a bidirectional computational steering interface and overhauled the simulated radiography subsystem.
-- [Conduit](https://github.com/LLNL/conduit): ported mesh transformation algorithms to a RAJA-based, GPU-portable execution model.
+- [Ascent](https://github.com/Alpine-DAV/ascent): Contributed a bidirectional computational steering interface and overhauled the simulated radiography subsystem.
+- [Conduit](https://github.com/LLNL/conduit): Porting mesh transformation algorithms to a RAJA-based, GPU-portable execution model.
 - [Treasure Room Start](https://github.com/siramok/treasure-room-start): Mod for The Binding of Isaac with 218k+ users on Steam Workshop.
 - [Better Co-op Item Pedestals](https://github.com/siramok/better-coop-item-pedestals) Mod for The Binding of Isaac with 63k+ users on Steam Workshop.
 
